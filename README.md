@@ -8,11 +8,11 @@ Portfolio showcase of cloud networking solutions
 
 ## **The Problem**
    
-Lorem Ipsum Description
+Accurate information about available food and shelter is not readily accesible to the homeless population
 
 ## **The Challenge**
 
-Lorem Ipsum Description
+Live updating number of available rooms and meals
 
 ## The Solution
 
@@ -25,7 +25,7 @@ System Stack Used:
 
 ## **The Results**
 
-- X
+- Shelter managers are able to update the bus stop billboard remotely from their mobile phone
 
 ## The Opportunity
 
