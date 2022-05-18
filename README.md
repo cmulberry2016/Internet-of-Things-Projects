@@ -28,7 +28,7 @@ System Stack Used:
 
 ## **The Results**
 
-- Shelter managers are able to update the bus stop billboard remotely from their mobile phone
+Shelter managers are able to update the bus stop billboard remotely from their mobile phone
 
 ## The Opportunity
 
