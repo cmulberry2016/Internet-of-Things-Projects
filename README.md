@@ -4,7 +4,7 @@ Portfolio showcase of cloud networking solutions
 <img width="1214" alt="Screen Shot 2022-05-18 at 1 20 58 PM" src="https://user-images.githubusercontent.com/23661772/169117007-92e81f24-bf31-47ff-bb14-a71ecdd69573.png">
 
 
-<details><summary>REALTIME FOOD+SHELTER MAP BILLBOARD 📍 (Project Pillows&Plates)</summary>
+<details><summary>REALTIME FOOD+SHELTER MAP BILLBOARD 📍 ("Pillows&Plates")</summary>
 <p>
     
 ![IoT Connectivity](https://user-images.githubusercontent.com/23661772/169114257-8a1050a5-baaa-4204-9802-30a85636f0a6.png)
