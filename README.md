@@ -21,10 +21,11 @@ Live updating number of available rooms and meals
 
 System Stack Used:
 
-- Input with **[Messages API](https://docs.enklu.com/docs/API/Messages)**
-- Interfacing through **[Hands API](https://docs.enklu.com/docs/API/Hand)** and **[Spatial Artificial Intelligence API](https://docs.enklu.com/docs/API/App#sai-object)**
-- Training with **[Spatial Artificial Intelligence](https://docs.enklu.com/docs/API/App#sai-object)**
-- Scripted in **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+- Build with **[XCode]((https://developer.apple.com/xcode/)**
+- Realtime Database with **[Firebase Database](https://firebase.google.com/docs/database)**
+- Mapping with **[Google Maps API](https://developers.google.com/maps)**
+- Cloud Connectivity with **[Raspberry Pi 3 Model B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)**
+- Scripted in **[Swift][https://developer.mozilla.org/en-US/docs/Web/JavaScript)](https://developer.apple.com/swift/)**
 
 ## **The Results**
 
