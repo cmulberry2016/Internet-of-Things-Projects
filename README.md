@@ -25,7 +25,7 @@ System Stack Used:
 - Realtime Database with **[Firebase Database](https://firebase.google.com/docs/database)**
 - Mapping with **[Google Maps API](https://developers.google.com/maps)**
 - Cloud Connectivity with **[Raspberry Pi 3 Model B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)**
-- Scripted in **[Swift][https://developer.mozilla.org/en-US/docs/Web/JavaScript)](https://developer.apple.com/swift/)**
+- Scripted in **[Swift](https://developer.apple.com/swift/)**
 
 ## **The Results**
 
