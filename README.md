@@ -21,7 +21,7 @@ Live updating number of available rooms and meals
 
 System Stack Used:
 
-- Build with **[XCode]((https://developer.apple.com/xcode/)**
+- Built with **[XCode](https://developer.apple.com/xcode/)**
 - Realtime Database with **[Firebase Database](https://firebase.google.com/docs/database)**
 - Mapping with **[Google Maps API](https://developers.google.com/maps)**
 - Cloud Connectivity with **[Raspberry Pi 3 Model B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)**
